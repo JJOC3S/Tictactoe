@@ -1,2 +1,2 @@
 # Tictactoe
-![image](https://github.com/user-attachments/assets/4d3afb42-4479-441e-8049-a25759bbfce8)
+![image](https://github.com/user-attachments/assets/007c8f3d-a3bf-4e06-9b56-8c7c3be6dfe3)
